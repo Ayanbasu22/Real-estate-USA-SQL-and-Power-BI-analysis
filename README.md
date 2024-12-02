@@ -1,2 +1,11 @@
 # Real-estate-USA-SQL-and-Power-BI-analysis
- The project focuses on cleaning a U.S. real estate dataset with SQL, exploring it in BigQuery, and preparing it for Power BI. It includes creating interactive dashboards with property stats, a price calculator, and visualizing sales by state and month for analysis.
+Description: The main goals of this project are:
+1) To clean the dataset from Kaggle about real estate in the United States using SQL,
+2) Explore data in Bigquery,
+3) Group and prepare data for visualization in Power BI,
+4) Create comprehensive dashboards, including interactive property stats, the price calculator that can count average prices by given parameters, and a dashboard that shows the quantity of sold properties in different states and the sales distribution among the months in the year for effective data exploration.
+Data cleaning and exploring SQL: data_cleaning.sql data_exploration.sql
+Power BI dashboards: real-estate-dashboards.pbix real-estate-dashboards.pdf
+Skills: analytical thinking, data cleaning, data analysis, data vizualization
+Hard skills: Bigquery SQL, Power BI, Dashboards
+Results: Data was cleaned (which reduced the amount of data by about nine times), explored in Bigquery, imported into Power BI, transformed, and 3 dashboards were created.
